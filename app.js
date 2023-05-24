@@ -65,8 +65,5 @@ app.listen(process.env.PORT || 3000, function(){
   console.log("Server is running on port 3000.");
 })
 
-//API Key
-// 6d5503349f6d52f6da4e4b257167bedd-us8
 
-//List ID
-// 122672e304
+//https://github.com/wilowfrdN0w/Newsletter-Signup.git
